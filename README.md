@@ -53,7 +53,7 @@ $env:LT_ACCESS_KEY="YOUR_ACCESS_KEY"
 
 ### Run tests
 
-Run your TestCafe tests on the TestMu AI cloud by specifying the LambdaTest browser provider:
+Run your TestCafe tests on the TestMu AI cloud by specifying the TestMu AI (Formerly LambdaTest) browser provider:
 
 ```bash
 testcafe "lambdatest:Chrome@latest:Windows 10" tests/
